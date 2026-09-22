@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Body (Centered inside 66dp zone, bounds approx 28-80) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,28 L64,28 L74,38 L74,78 C74,80.2 72.2,82 70,82 L38,82 C35.8,82 34,80.2 34,78 L34,32 C34,29.8 35.8,28 38,28 Z" />
+    
+    <!-- Folded Corner -->
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M64,28 L74,38 L64,38 Z" />
+
+    <!-- Text Lines on Doc -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M40,44 H68 V47 H40 Z M40,51 H62 V54 H40 Z M40,58 H66 V61 H40 Z M40,65 H54 V68 H40 Z" />
+
+    <!-- OCR Scanning Laser Line -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,55 H78 V57 H30 Z" />
+
+    <!-- Intelligence Spark in bottom right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M70,68 C70,72 73,73 73,73 C73,73 70,74 70,78 C70,74 67,73 67,73 C67,73 70,72 70,68 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,36 C36,38 38,39 38,39 C38,39 36,40 36,42 C36,40 34,39 34,39 C34,39 36,38 36,36 Z" />
+</vector>
+
